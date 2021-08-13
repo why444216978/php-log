@@ -1,5 +1,4 @@
 <img src="https://github.com/why444216978/images/blob/master/qrcode.png" width="300" height="100" alt="公众号"/>
-<br>
 
 # PHP实现的日志组件
 <br>

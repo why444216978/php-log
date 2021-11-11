@@ -1,5 +1,3 @@
-<img src="https://github.com/why444216978/images/blob/master/qrcode.png" width="300" height="100" alt="公众号"/>
-
 # PHP实现的日志组件
 <br>
 包含异常捕获、日志分片、日志级别、函数调用栈
